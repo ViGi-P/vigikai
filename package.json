@@ -1,0 +1,26 @@
+{
+  "name": "vigikai",
+  "displayName": "Vigikai",
+  "description": "Vigified vscode monokai theme",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViGi-P/vigikai.git"
+  },
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vigikai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vigikai-color-theme.json"
+      }
+    ]
+  }
+}
