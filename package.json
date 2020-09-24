@@ -2,14 +2,16 @@
   "name": "vigikai",
   "displayName": "Vigikai",
   "description": "Vigified vscode monokai theme",
+  "publisher": "vigi-p",
   "version": "0.1.0",
   "license": "Apache-2.0",
+  "author": "Vignesh Prasad <mail@vigneshprasad.com> (https://vigneshprasad.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/ViGi-P/vigikai.git"
   },
   "engines": {
-    "vscode": "^1.49.0"
+    "vscode": "^1.47.0"
   },
   "categories": [
     "Themes"
