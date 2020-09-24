@@ -6,4 +6,13 @@ Check [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) for recommendatio
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-09-24
+
+### Added
+
+- Screenshots to README
+- Icon to package.json
+
+## [0.1.0] - 2020-09-23
+
 - Initial release
