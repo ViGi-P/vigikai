@@ -1,5 +1,3 @@
-<div style="float:left; margin-right: 10px;"><img src="./assets/icon.png" width="36" height="36"/></div>
-
 # Vigikai <a name="README"></a>
 
 Another vscode theme, inspired by Monokai
