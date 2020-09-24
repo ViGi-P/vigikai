@@ -6,6 +6,12 @@ Check [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) for recommendatio
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-09-24
+
+### Changed
+
+- README
+
 ## [1.0.0] - 2020-09-24
 
 ### Added
